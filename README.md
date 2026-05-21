@@ -62,7 +62,7 @@ Alexandria National University
 - Data Visualization & Analytics  
 
 **Web Development**  
-- Front-end: HTML, CSS, JavaScript, React.js  
+- Front-end: HTML, CSS, JavaScript, React.js& Node.js
 - UI/UX Design  
 - Streamlit (Web Apps & APIs)  
 
