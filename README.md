@@ -73,12 +73,12 @@ Alexandria National University
 
 ## Featured Projects
 
-### Real-Time Motion Detection System[Check it here](https://github.com/gondakly/Motion-detection)
+### Real-Time Motion Detection System [Check it here](https://github.com/gondakly/Motion-detection)
 - Developed a **real-time motion detection and object tracking** application using the **YOLO** model.
 - Built an interactive web interface with **Streamlit** supporting video file upload, webcam streaming, and live detection with bounding boxes.
 - Technologies: Python, **YOLO**, OpenCV, Streamlit.
 
-### Hybrid Movie Recommender System [here](https://github.com/gondakly/hybrid-movie-recommendation-system-APP)
+### Hybrid Movie Recommender System [Check it here](https://github.com/gondakly/hybrid-movie-recommendation-system-APP)
 - Developed a **Hybrid Movie Recommendation Engine** combining **Collaborative Filtering** and **Content-Based Filtering** for improved accuracy and personalization.
 - Implemented techniques such as matrix factorization, cosine similarity, and feature engineering on movie metadata.
 - Built an interactive web interface to display recommendations with explanations.
@@ -91,10 +91,10 @@ Alexandria National University
 ### Spotify Recommendation System
 - Built a music recommendation engine as part of the Data Science Methodology course using collaborative and content-based approaches.
 
-### Library Management System[Check it here](https://github.com/gondakly/gondakly-projects/tree/main/libraryMangement-main)
+### Library Management System [Check it here](https://github.com/gondakly/gondakly-projects/tree/main/libraryMangement-main)
 - Full-featured **Java desktop application** with complete CRUD operations, authentication, and data persistence.
 
-### Car Rental System (Full-Stack)[Check it here](https://github.com/gondakly/gondakly-projects/tree/main/CarRental)
+### Car Rental System (Full-Stack) [Check it here](https://github.com/gondakly/gondakly-projects/tree/main/CarRental)
 - Complete front-end web application for a car rental management system (academic database project).
 - Technologies: HTML, CSS, JavaScript.
 
