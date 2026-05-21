@@ -29,6 +29,15 @@ Alexandria National University
 
 ## Professional Experience
 
+**Data Science and AI Intern**  
+**Digital Egypt Pioneers Initiative (DEPI)** — *November 2025 – Present*
+
+- Enrolled in the **IBM Data Science and Artificial Intelligence Track**.
+- Developing strong proficiency in Python for data analysis and machine learning using **pandas, NumPy, Matplotlib, and scikit-learn**.
+- Applying **SQL** for data querying, aggregation, and analysis on structured datasets.
+- Building and evaluating machine learning models for classification and regression problems.
+- Gaining hands-on experience in data cleaning, Exploratory Data Analysis (EDA), feature engineering, and model evaluation on real-world datasets.
+
 **Summer Intern**  
 **Commercial International Bank (CIB)** — *August 2025 – September 2025*
 
