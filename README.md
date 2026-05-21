@@ -30,7 +30,7 @@ Alexandria National University
 ## Professional Experience
 
 **Data Science and AI Intern**  
-**Digital Egypt Pioneers Initiative (DEPI)** — *November 2025 – Present*
+**Digital Egypt Pioneers Initiative (DEPI Egypt)** — *November 2025 – Present*
 
 - Enrolled in the **IBM Data Science and Artificial Intelligence Track**.
 - Developing strong proficiency in Python for data analysis and machine learning using **pandas, NumPy, Matplotlib, and scikit-learn**.
