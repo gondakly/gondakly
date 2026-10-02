@@ -29,6 +29,19 @@ GRADE:3
 
 ## Professional Experience
 
+**Data Analysis and Business Intelligence Intern**  
+**TechTrek** — *July 2026 – September 2026*
+Completed an intensive **120-hour Hybrid** Professional Training Program in Data Analysis & Business Intelligence at **TechTrek**, focused on transforming raw data into actionable business insights through end-to-end analytical workflows.
+
+Key Topics & Skills Covered:
+- Data Visualization & Business Intelligence: Mastered building dynamic dashboards and interactive reports using Power BI and Tableau.
+
+-Data Analysis & Manipulation: Utilized Excel (Advanced Formulas, Pivot Tables, Power Query) for data cleaning, modeling, and structured analysis.
+
+-Programming for Analytics: Applied Python for Data Analysts (Pandas, NumPy, Matplotlib, Seaborn) to perform   data manipulation, exploratory data analysis (EDA), and automated reporting.
+
+-Data Storytelling & Reporting: Translated complex technical findings into strategic insights for decision-makers.
+
 **Data Science and AI Intern**  
 **Digital Egypt Pioneers Initiative (DEPI Egypt)** — *November 2025 – July 2026*
 
@@ -59,7 +72,8 @@ GRADE:3
 - Recommendation Systems (Hybrid Models)  
 - Sentiment Analysis & NLP  
 - Optimization Algorithms  
-- Data Visualization & Analytics  
+- Data Visualization & Analytics
+- Excel Data Analysis And Power BI
 
 **Web Development**  
 - Front-end: HTML, CSS, JavaScript, React.js & Node.js
