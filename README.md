@@ -22,7 +22,7 @@ My projects and internship experience reflect a strong focus on recommendation s
 
 **B.Sc. in Computer Science - Data Science and Artificial Intelligence**  
 Alexandria National University  
-*October 2023 – Present*  
+*October 2023 – August 2027*  
 GRADE:3
 
 ---
