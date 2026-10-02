@@ -86,6 +86,11 @@ Key Topics & Skills Covered:
 ---
 
 ## Featured Projects
+### Sentiment Analysis Of Twitter [Check it here](https://github.com/gondakly/Sentiment-Analysis-Of-Twitter-Presentation)
+- Developed a comprehensive multi-platform machine learning project aimed at classifying Twitter sentiments (Positive vs. Negative) using the Sentiment140 dataset.
+- The project implements and compares Logistic Regression across Python, R environments to evaluate model performance and text classification metrics.
+- The Data Was 1.6 Million Record Achieved Accuracy in the Project was 85% .
+
 
 ### Real-Time Motion Detection System [Check it here](https://github.com/gondakly/Motion-detection)
 - Developed a **real-time motion detection and object tracking** application using the **YOLO** model.
