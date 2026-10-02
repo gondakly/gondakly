@@ -36,11 +36,11 @@ Completed an intensive **120-hour Hybrid** Professional Training Program in Data
 Key Topics & Skills Covered:
 - Data Visualization & Business Intelligence: Mastered building dynamic dashboards and interactive reports using Power BI and Tableau.
 
--Data Analysis & Manipulation: Utilized Excel (Advanced Formulas, Pivot Tables, Power Query) for data cleaning, modeling, and structured analysis.
+- Data Analysis & Manipulation: Utilized Excel (Advanced Formulas, Pivot Tables, Power Query) for data cleaning, modeling, and structured analysis.
 
--Programming for Analytics: Applied Python for Data Analysts (Pandas, NumPy, Matplotlib, Seaborn) to perform   data manipulation, exploratory data analysis (EDA), and automated reporting.
+- Programming for Analytics: Applied Python for Data Analysts (Pandas, NumPy, Matplotlib, Seaborn) to perform   data manipulation, exploratory data analysis (EDA), and automated reporting.
 
--Data Storytelling & Reporting: Translated complex technical findings into strategic insights for decision-makers.
+- Data Storytelling & Reporting: Translated complex technical findings into strategic insights for decision-makers.
 
 **Data Science and AI Intern**  
 **Digital Egypt Pioneers Initiative (DEPI Egypt)** — *November 2025 – July 2026*
