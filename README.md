@@ -91,7 +91,7 @@ Key Topics & Skills Covered:
   
 - The project implements and compares Logistic Regression across Python, R environments to evaluate model performance and text classification metrics.
   
-- With 1.6 Million Data Records Achieved Accuracy in the Project was 85%.
+- With 1.6 Million Data Records Achieved Accuracy in the Project was 85% which is a Real achievement I'm Proud Of it.
 
 
 ### Real-Time Motion Detection System [Check it here](https://github.com/gondakly/Motion-detection)
