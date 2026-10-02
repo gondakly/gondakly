@@ -99,7 +99,8 @@ Key Topics & Skills Covered:
 - Technologies: Python, pandas, scikit-learn, Surprise or LightFM, Streamlit.
 
 ### Pharmacy Assistant [Check it here](https://github.com/gondakly/pharmacy-assistant)
-Pharmacy GPT is an educational prototype that demonstrates the integration of localized Generative AI (LLMs) and Machine Learning logic into a unified healthcare assistant interface. Purpose-built for the Egyptian pharmaceutical ecosystem, the web application helps users understand potential medical conditions based on symptoms
+- Pharmacy GPT is an educational prototype that demonstrates the integration of localized Generative AI (LLMs) and Machine Learning logic into a unified healthcare assistant interface. 
+- Purpose-built for the Egyptian pharmaceutical ecosystem, the web application helps users understand potential medical conditions based on symptoms
 
 ### Vehicle Routing Optimization (ACO) [Check it here](https://github.com/gondakly/gondakly-projects/tree/main/Vehicle%20Routing%20Optimization)
 - Developed a **Streamlit web API** for solving the Vehicle Routing Problem using the **Ant Colony Optimization (ACO)** algorithm.
